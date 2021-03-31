@@ -1,4 +1,4 @@
-package com.soo.nememo
+package com.test.nememo
 
 import android.os.Build
 import android.os.Bundle

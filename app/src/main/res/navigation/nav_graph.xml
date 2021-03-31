@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.soo.nememo.fragment.MainFragment"
+        android:name="com.test.nememo.fragment.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" />
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.soo.nememo.fragment.SplashFragment"
+        android:name="com.test.nememo.fragment.SplashFragment"
         android:label="fragment_splash"
         tools:layout="@layout/fragment_splash" />
 </navigation>

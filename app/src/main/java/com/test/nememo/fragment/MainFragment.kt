@@ -1,8 +1,7 @@
-package com.soo.nememo.fragment
+package com.test.nememo.fragment
 
 import android.annotation.TargetApi
 import android.app.Activity
-import android.content.Context
 import android.graphics.Bitmap
 import android.os.Build
 import android.os.Bundle
@@ -11,7 +10,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.webkit.*
 import androidx.fragment.app.Fragment
-import com.soo.nememo.R
+import com.test.nememo.R
 
 
 private var splashView: View? = null
