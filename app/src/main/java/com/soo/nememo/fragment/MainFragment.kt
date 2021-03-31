@@ -73,7 +73,7 @@ class MainFragment : Fragment() {
 
         mWebView.run {
             webViewClient = CustomWebViewClient()
-            loadUrl("https://app.finnq.com/MAS90A0401.web")
+            loadUrl("https://m.naver.com")
         }
 
 
