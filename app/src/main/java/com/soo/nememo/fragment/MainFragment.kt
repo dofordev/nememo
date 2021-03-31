@@ -71,6 +71,7 @@ class MainFragment : Fragment() {
 
 
 
+
         mWebView.run {
             webViewClient = CustomWebViewClient()
             loadUrl("https://m.naver.com")
